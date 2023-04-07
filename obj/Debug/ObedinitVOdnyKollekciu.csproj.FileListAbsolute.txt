@@ -1,0 +1,8 @@
+C:\Users\mixad\GitRepost\ObedinitVOdnyKollekciu\bin\Debug\ObedinitVOdnyKollekciu.exe.config
+C:\Users\mixad\GitRepost\ObedinitVOdnyKollekciu\bin\Debug\ObedinitVOdnyKollekciu.exe
+C:\Users\mixad\GitRepost\ObedinitVOdnyKollekciu\bin\Debug\ObedinitVOdnyKollekciu.pdb
+C:\Users\mixad\GitRepost\ObedinitVOdnyKollekciu\obj\Debug\ObedinitVOdnyKollekciu.csproj.AssemblyReference.cache
+C:\Users\mixad\GitRepost\ObedinitVOdnyKollekciu\obj\Debug\ObedinitVOdnyKollekciu.csproj.SuggestedBindingRedirects.cache
+C:\Users\mixad\GitRepost\ObedinitVOdnyKollekciu\obj\Debug\ObedinitVOdnyKollekciu.csproj.CoreCompileInputs.cache
+C:\Users\mixad\GitRepost\ObedinitVOdnyKollekciu\obj\Debug\ObedinitVOdnyKollekciu.exe
+C:\Users\mixad\GitRepost\ObedinitVOdnyKollekciu\obj\Debug\ObedinitVOdnyKollekciu.pdb
